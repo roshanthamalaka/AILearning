@@ -1,8 +1,8 @@
 # Prompt Engineering 
 
-# Writing Better Prompt to AI agent called as Prompt Engineering. 
+Writing Better Prompt to AI agent called as Prompt Engineering. 
 
-Core Component of Strong Prompt 
+Core Component of Strong Prompt  
 
 Role: Act as Python Developer 
 
