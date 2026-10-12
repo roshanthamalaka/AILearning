@@ -40,3 +40,10 @@ Assume there is an application that filter applicants based on the CV. Actor can
 
 In this method attacker manipulate the data source of an GenAI application. Due to this It will generate wrong information. 
 
+<b> Overreliance </b>  
+
+Threat Actor Some how feed misinformation. 
+AI Application Use this misinformation and output misinformation.
+User without validation uses this misinformation. 
+
+For example Software Developer use GenAI to Write Code. However Claude Generate vulnerable code. If used this code in the application it will be vulnerable application. This happen because developer over rely on the claude output and didn't validate it.
