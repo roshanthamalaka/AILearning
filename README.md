@@ -4,15 +4,15 @@ Writing Better Prompt to AI agent called as Prompt Engineering.
 
 Core Component of Strong Prompt  
 
-Role: Act as Python Developer 
+<b>Role</b>: Act as Python Developer 
 
-Task: Write a Function that Validate  Email address
+<b>Task</b>: Write a Function that Validate  Email address
 
-Context: This Function will run on production environment 
+<b>Context</b>: This Function will run on production environment 
 
-Input Data: Here CSV Schema 
+<b>Input Data</b>: Here CSV Schema 
 
-Output Format: Only Return the python Code
+<b>Output Format</b>: Only Return the python Code
 
 # Retrieval Augmented Generation (RAG)
 
