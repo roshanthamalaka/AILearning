@@ -36,4 +36,7 @@ In this case Give malicious prompt to the agent directly like <b> Ignore the dev
 
 Assume there is an application that filter applicants based on the CV. Actor can inject hidden prompt (such as hidden characters in the Document ) to convince that the candidate is best candidate. 
 
+<b> Training Data Poisioning </b>
+
+In this method attacker manipulate the data source of an GenAI application. Due to this It will generate wrong information. 
 
