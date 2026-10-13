@@ -64,3 +64,17 @@ Everything that Microsoft does with regards to AI needs to follow certain princi
 
 <b> Accountability </b> : People should be accountable for AI systems.
 
+
+ Microsoft has several responsible AI principles that they leverage internally when building AI systems, but that they also recommend to customers. Those are 
+
+ 
+<b> Identify ----> Measure---> Mitigate---> Operate and go back to Identify. </b>
+
+
+Identify : Identify and Prioritize potential threats that could result from AI systems through iterative red-teaming, stress testing and analysis
+
+Measure : Measure the frequency and severity of those threats by establishing clear metrics , creating test set and completing systematic testing
+
+Mitigate: Mitigate by implementing tools and strategies such as prompt engineering and using content filters
+
+Operate : Define and execute a deployment and operational readiness plan
