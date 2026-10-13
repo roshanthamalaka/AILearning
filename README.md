@@ -47,3 +47,15 @@ AI Application Use this misinformation and output misinformation.
 User without validation uses this misinformation. 
 
 For example Software Developer use GenAI to Write Code. However Claude Generate vulnerable code. If used this code in the application it will be vulnerable application. This happen because developer over rely on the claude output and didn't validate it.
+
+# Microsoft Responsible AI 
+
+Everything that Microsoft does with regards to AI needs to follow certain principles. This is called Responsible AI. 
+
+<b> Fairness </b> : Basically means that AI systems should treat all people fairly.
+<b> Reliability and safety </b> : The AI systems should perform reliably and also safely.
+<b> Privacy and security </b> : AI systems should be secure and also respect user privacy.
+<b> Inclusiveness </b> : AI systems should empower everyone and also engage all people regardless of their backgrounds.
+<b> Transparency </b> : AI systems should be understandable
+<b> Accountability </b> : People should be accountable for AI systems.
+
